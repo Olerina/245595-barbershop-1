@@ -1,0 +1,25 @@
+body {
+  font-family: "PT Sans Narrow", "Verdana", sans-serif;
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 24px;
+  color: #ffffff;
+  text-transform: uppercase;
+  background: #000000 url("../img/background-image-index.jpg") no-repeat center top;
+}
+.site-navigation li {
+  font-size: 16px;
+  line-height: 20px;
+}
+.login-link {
+  font-size: 16px;
+  line-height: 20px;
+}
+.features-name {
+  font-size: 30px;
+  line-height: 42px;
+}
+.index-content-title {
+  font-size: 30px;
+  line-height: 42px;
+}
